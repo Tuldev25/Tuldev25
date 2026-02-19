@@ -5,7 +5,6 @@
 🌍 Passionate about building clean and modern web applications  
 
 
-
 ## 🚀 Technologies I Use
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,6 +16,12 @@
 Improve my skills step by step and build professional projects.
 
 
-
 ## 📫 Contact Me
 - GitHub: https://github.com/Tuldev25
+
+
+## 📊 GitHub Stats
+
+![Ulrich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuldev25&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuldev25&layout=compact&theme=tokyonight)
