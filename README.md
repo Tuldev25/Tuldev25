@@ -12,6 +12,16 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
+
+## 📌 Featured Project
+
+### 🎓 Student Manager App  
+A simple web application built with HTML, CSS and JavaScript to manage students dynamically.
+
+🔗 Live Demo: https://tuldev25.github.io/student-manager-app/  
+🔗 Repository: https://github.com/Tuldev25/student-manager-app
+
+
 ## 📌 Current Goal
 Improve my skills step by step and build professional projects.
 
