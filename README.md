@@ -20,8 +20,9 @@ Improve my skills step by step and build professional projects.
 - GitHub: https://github.com/Tuldev25
 
 
+
 ## 📊 GitHub Stats
 
-![Ulrich's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tuldev25&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tuldev25&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuldev25&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuldev25&layout=compact)
