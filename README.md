@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Ulrich
 
-<!--
-**Tuldev25/Tuldev25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Aspiring Front-End Developer  
+🌍 Passionate about building clean and modern web applications  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Technologies I Use
+
+- HTML5
+- CSS3
+- JavaScript
+
+
+
+## 📌 Current Goal
+Improve my skills step by step and build professional projects.
+
+
+
+## 📫 Contact Me
+- GitHub: https://github.com/Tuldev25
