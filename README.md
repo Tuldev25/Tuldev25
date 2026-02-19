@@ -21,9 +21,6 @@ Improve my skills step by step and build professional projects.
 
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tuldev25&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuldev25&layout=compact)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Tuldev25)
